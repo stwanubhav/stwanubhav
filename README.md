@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠 Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
 #### 🚀 Languages & Frameworks
 <p>
