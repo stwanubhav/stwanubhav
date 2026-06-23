@@ -66,6 +66,7 @@
 - Become a **Full-Stack & AI Developer**
 - Build AI-powered useful applications
 - Contribute more to open-source
+- Passionate about building technology that contributes to India's digital growth and innovation.
 
 ---
 
